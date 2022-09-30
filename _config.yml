@@ -21,9 +21,6 @@ author: Constantinos Argyriou
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://embeddedcat.github.io/"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://embeddedcat.github.io/"
 
 ################
