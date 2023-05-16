@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Embedded Cat Personal Blog
+title: Constantino's Personal Blog
 
 # Your name to show in the footer
 author: Constantinos Argyriou
@@ -21,7 +21,7 @@ author: Constantinos Argyriou
 
 navbar-links:
   About Me: "aboutme"
-  Author's home: "https://embeddedcat.github.io/"
+  Author's home: "https://constarg.github.io/"
 
 ################
 # --- Logo --- #
@@ -49,8 +49,8 @@ social-network-links:
   email: "embeddedcat@pm.me"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: EmbeddedCat
-  twitter: EmbeddedCat
+  github: constarg
+  twitter: constarg
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -65,12 +65,12 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-  telegram: embeddedcat
+  telegram: constarg
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-  discord: EmbeddedCat#2299
+  discord: constarg#2299
 #  kaggle: yourname
 #  hackerrank: yourname
 
@@ -91,7 +91,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "embeddedcat.github.io"
+url-pretty: "constarg.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
