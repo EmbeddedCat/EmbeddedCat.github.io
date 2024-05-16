@@ -4,4 +4,8 @@ title: About me
 subtitle: 
 ---
 
-Hello, welcome to my personal website. My name is Constantinos, I'm an undergraduate student at the University of Piraeus and the field that interested me the most is embedded systems. This field requires two pieces of knowledge, first, you have to know about computer architecture, and second is that you must know low-level programming. For those reasons, I'm studying computer architecture at the university and I focused mainly on low-level programming languages, such as C/C++ and Rust. Also, I found it very interesting to study the ways that embedded systems may be vulnerable and how to secure them. That's it, that's my introduction, I hope that you will find interesting projects in my GitHub account. Contact me if there is any problem or if you want any collaboration. Have a good day/night.
+Hello and welcome to my personal website! My name is Constantinos, and I'm an undergraduate student at the University of Piraeus. My primary interest lies in embedded systems, a field that demands a solid understanding of computer architecture and low-level programming.
+
+At the university, I focus on studying computer architecture and mastering low-level programming languages such as C, C++, and Assembly. Within the field of embedded systems, I'm particularly interested in the concept of reliability.
+
+Feel free to browse through my projects on GitHub. If you have any questions or are interested in collaborating, don't hesitate to contact me.
